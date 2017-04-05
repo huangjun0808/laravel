@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title>服务正在维护……</title>
+        <title>404</title>
 
         {{--<link href="https://fonts.googleapis.com/css?family=Lato:100" rel="stylesheet" type="text/css">--}}
 
@@ -40,7 +40,7 @@
     <body>
         <div class="container">
             <div class="content">
-                <div class="title">服务正在维护……</div>
+                <div class="title">404 .</div>
             </div>
         </div>
     </body>
